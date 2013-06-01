@@ -1,3 +1,4 @@
+//java file for shuffling a string
 package com.example.shufflingapp;
 
 import java.util.ArrayList;
